@@ -1,0 +1,24 @@
+{
+  "name": "@test/buttons-vue3",
+  "version": "1.0.0",
+  "description": "Buttons components for vue3",
+  "main": "src/index.ts",
+  "scripts": {
+    "build:lib": "npx unbuild"
+  },
+  "keywords": [
+    "vue3",
+    "vuejs",
+    "button"
+  ],
+  "author": "Romain GABEL",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.29"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5",
+    "unbuild": "^0.6.8",
+    "vue-tsc": "^0.28.10"
+  }
+}
